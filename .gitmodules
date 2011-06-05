@@ -1,0 +1,3 @@
+[submodule "submodules/as3-signals"]
+	path = submodules/as3-signals
+	url = https://github.com/robertpenner/as3-signals.git
